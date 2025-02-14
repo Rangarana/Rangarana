@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there I'm Ranga👋
 
 ## <!💫 About Me:
-🔭 I’m currently working on AI Developer <br>👯 I’m looking to collaborate on Innovation <br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me aboutAnything <br>⚡ Fun fact
+🔭 I’m currently working on AI Developer <br>👯 I’m looking to collaborate on Innovation <br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about Anything <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
