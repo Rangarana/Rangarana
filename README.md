@@ -1,4 +1,4 @@
-## Hi there I'm Ranga👋
+## Hi there I'm Rangaswami Challa👋
 
 ## <!💫 About Me:
 🔭 I’m currently working on AI Developer <br>👯 I’m looking to collaborate on Innovation <br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about Anything <br>⚡ Fun fact
