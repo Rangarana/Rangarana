@@ -22,9 +22,8 @@ class RangaswamyChalla:
     def __init__(self):
         self.name        = "Rangaswamy Challa"
         self.role        = "AI Developer | Generative AI Engineer"
-        self.location    = "Vijayawada, Andhra Pradesh, India 🇮🇳"
+        self.location    = "Bangalore,Karnataka,India"
         self.education   = "Central University of Andhra Pradesh"
-        self.company     = "HS Global AI"
 
     @property
     def what_i_build(self):
@@ -42,7 +41,7 @@ class RangaswamyChalla:
             "building"  : "Production-grade Generative AI systems",
             "learning"  : "Advanced LLM fine-tuning & multimodal AI",
             "open_to"   : "Freelance projects & Remote opportunities globally",
-            "reach_me"  : "YOUR_EMAIL@gmail.com",
+            "reach_me"  : "challarangaswami@gmail.com",
         }
 
     def __str__(self):
@@ -63,7 +62,7 @@ class RangaswamyChalla:
 | 🔍 Vector Search System | FAISS, HuggingFace, Python | 2–4 days |
 | 🏗️ AI Infrastructure Setup | FastAPI, AWS/GCP, Docker | 5–14 days |
 
-📩 **DM me on [LinkedIn](https://linkedin.com/in/rangaswamy-challa-63b822241) or email: YOUR_EMAIL@gmail.com**
+📩 **DM me on [LinkedIn](https://linkedin.com/in/rangaswamy-challa-63b822241) or email: challarangaswami@gmail.com**
 
 ---
 
@@ -174,3 +173,4 @@ If you're building an AI product and need a developer who delivers **production-
 **"I don't just build AI demos — I build AI that works in production."**
 
 </div>
+
