@@ -172,5 +172,3 @@ If you're building an AI product and need a developer who delivers **production-
 
 **"I don't just build AI demos — I build AI that works in production."**
 
-</div>
-
